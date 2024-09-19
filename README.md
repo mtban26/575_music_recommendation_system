@@ -1,1 +1,1 @@
-# 575_music_recommendation_system
+# ASU CSE 575 Final Project: Comparison of Machine Learning Models for a Music Recommendation System
